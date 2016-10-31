@@ -1,8 +1,8 @@
 {
-  "name": "material-design-icons",
+  "name": "material-design-icons-font",
   "version": "3.0.1",
-  "description": "Material Design icons by Google",
-  "main": "index.js",
+  "description": "Material Design icons (font only) by Google",
+  "main": "iconfont/material-icons.css",
   "repository": {
     "type": "git",
     "url": "https://github.com/google/material-design-icons"
